@@ -1,1 +1,1 @@
-li'dang'xin Windows DESKTOP-F3P6CHF 10 10.0.18362 AMD64 Intel64 Family 6 Model 142 Stepping 10, GenuineIntel34:48:ed:08:87:aa
+10755 Windows DESKTOP-VQRDJM4 10 10.0.18362 AMD64 Intel64 Family 6 Model 142 Stepping 12, GenuineIntel9b:7c:6b:23:b1:1a
