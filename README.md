@@ -1,1 +1,1 @@
-10755 Windows DESKTOP-VQRDJM4 10 10.0.19041 AMD64 Intel64 Family 6 Model 142 Stepping 12, GenuineIntelcd:7a:68:d5:d7:1b
+10755 Windows DESKTOP-VQRDJM4 10 10.0.19041 AMD64 Intel64 Family 6 Model 142 Stepping 12, GenuineIntelcc:a5:02:cc:2c:5b
